@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/76894940/197580462-f98b8b2d-0a91-49b1-
 
 
 
-#### ADNI1 MRI Scanner Manufacturer Effects in 3D tSNE plot
+#### ADNI2 MRI Scanner Manufacturer Effects in 3D tSNE plot
 
 
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/76894940/197583480-37937915-d986-4832-
 
 
 
-#### ADNI1 MRI Scanner Manufacturer Effects in 3D UMAP plot
+#### ADNI2 MRI Scanner Manufacturer Effects in 3D UMAP plot
 
 
 
